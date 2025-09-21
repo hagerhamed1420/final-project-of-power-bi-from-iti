@@ -71,15 +71,6 @@ Mohamed Ali
 
 Eslam Abd Elnaby
 
-Under Supervision:
-Eng. Mohammed Agoor – Instructor of Data Science & AI, Digital Egypt Pioneers Initiative
-
-🔗 Project Links
-
-GitHub Repository: http://bit.ly/4pCfoTp
-
-Live Demo (Gradio): Coming soon
-
 💡 Conclusion
 
 This project showcases how Business Intelligence and AI can be integrated to provide powerful insights and enhance decision-making. From data pipelines to dashboards and intelligent product discovery, our work highlights the potential of combining traditional BI tools with modern AI systems for smarter retail solutions.
